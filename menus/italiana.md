@@ -15,3 +15,16 @@ Se caracteriza por el uso de pastas, salsas, quesos, verduras, carnes y  marisco
 - **Secondi (Segundos Platos):** 
 
 - **Contorni (Guarniciones):** 
+
+## Bebidas Recomendadas:
+
+
+- Vinos italianos tintos y blancos, según el plato. 
+
+- Limoncello: Licor de limón. 
+
+- Apewrol Sptritz: Cóctel con Aperol, prosecco y soda. 
+
+- Espresso: Café italiano fuerte.
+
+  
