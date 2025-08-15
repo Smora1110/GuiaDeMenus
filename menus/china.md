@@ -23,4 +23,17 @@
 
 - Vino de ciruela: Un licor dulce y afrutado, perfecto para el postre o como digestivo.
 
+
+# Consejos y Sugerencias:   
+
+- Compartir platos es una práctica común en la cocina china, así que no dudes en  pedir varios platos para probar diferentes sabores. 
+
+- Si no estás acostumbrado al picante, pregunta por el nivel de picante de los platos antes de ordenar. 
+
+- Utiliza los palillos para una experiencia más auténtica, pero si te resulta difícil, no dudes en pedir cubiertos. 
+
+- Asegúrate de probar la salsa de soya para potenciar el sabor de tus platos, pero úsala con moderación. 
+
+- Disfruta de la comida en un ambiente relajado y con buena compañía.
+
   
