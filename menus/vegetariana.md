@@ -29,3 +29,16 @@ Cocina vegetariana contemporánea, fusionando  técnicas y sabores de diferentes
 - **Cócteles sin alcohol:** 
 
   Preparaciones creativas con frutas frescas, hierbas aromáticas y zumos naturales.
+
+
+## Consejos y sugerencias:
+
+- **Pregunta por las opciones del día:** Siempre hay platos especiales que no están en el menú. 
+
+- **Adapta los platos a tus preferencias:** Si tienes alguna alergia o intolerancia, no dudes en preguntar si podemos hacer cambios. 
+
+- **Disfruta de la experiencia:** Tómate tu tiempo para saborear cada bocado y apreciar los sabores. 
+
+- **Comparte tu experiencia:** 
+
+  Déjanos tus comentarios y sugerencias para seguir mejorando.
