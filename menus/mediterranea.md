@@ -14,3 +14,10 @@
 - **Postre:** 
 
   Baklava (hojaldre con frutos secos y miel) o  Tarta de limón.
+
+
+## Bebidas Recomendadas:
+
+- Vinos blancos frescos de España o Italia
+- Vinos tintos ligeros
+- Cervezas artesanales de estilo ligero o afrutado.
