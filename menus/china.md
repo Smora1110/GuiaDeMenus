@@ -13,3 +13,14 @@
 - Cerdo con brócoli en salsa de ostras: Tiernos trozos de cerdo salteados con brócoli fresco en una salsa rica en sabor a ostras. 
 - Arroz frito con gambas: Arroz salteado con gambas, verduras y huevo, una opción reconfortante. 
 - Pato laqueado: Un plato emblemático, con piel crujiente y carne jugosa, servido con tortitas, cebolleta y salsa hoisin. 
+
+
+ # Bebidas Recomendadas:   
+
+- Té verde: Para limpiar el paladar y acompañar la comida. 
+
+- Cerveza china: Para una opción refrescante y tradicional. 
+
+- Vino de ciruela: Un licor dulce y afrutado, perfecto para el postre o como digestivo.
+
+  
