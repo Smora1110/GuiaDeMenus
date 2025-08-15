@@ -26,3 +26,16 @@
 ​    Costillas de Cordero:
 
 ​    Costillas de cordero marinadas en hierbas aromáticas y cocinadas a la parrilla, con puré de batata y cebollas caramelizadas.
+
+ **# Bebidas Recomendadas:**
+
+​    Vinos Tintos: Selección de vinos tintos argentinos, ideales para maridar con las carnes.
+
+​    Cervezas Artesanales: Cervezas locales de sabores intensos que complementan los platos.
+
+​    Limonada con Hierbabuena: Refrescante limonada casera con un toque de hierbabuena fresca.
+
+​    Agua de Jamaica: Bebida tradicional mexicana, dulce y refrescante.
+
+​    Tinto de Verano: Bebida española refrescante, ideal para los días calurosos.
+
