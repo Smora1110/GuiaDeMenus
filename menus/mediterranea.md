@@ -21,3 +21,13 @@
 - Vinos blancos frescos de España o Italia
 - Vinos tintos ligeros
 - Cervezas artesanales de estilo ligero o afrutado.
+
+
+## Consejos y Sugerencias:
+
+- Acompaña tus platos con un buen aceite de oliva virgen extra y pan fresco. 
+- No dudes en preguntar a nuestro personal sobre las especialidades del día y maridajes de vinos. 
+- Si tienes alguna restricción dietética, por favor, háznoslo saber para poder adaptarte el menú. 
+- Para disfrutar al máximo de la experiencia mediterránea, te recomendamos compartir algunos platos y probar diferentes sabores. 
+- Elige un buen vino para acompañar tu comida, como un vino blanco fresco o un tinto ligero, dependiendo del plato principal. 
+- ¡Disfruta de la atmósfera relajada y los sabores auténticos de nuestra cocina mediterránea!
