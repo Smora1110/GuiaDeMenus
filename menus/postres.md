@@ -36,4 +36,21 @@ Se busca resaltar la diversidad de ingredientes locales y técnicas  culinarias 
 
   Chocolate caliente con leche, canela y especias, ideal para acompañar los postres. 
 
-- 
+
+## Consejos y sugerencias:
+
+- Acompañar los postres con un buen café colombiano para potenciar los sabores. 
+
+- Adaptar las porciones de los postres a las preferencias de los comensales, ofreciendo opciones más pequeñas para compartir. 
+
+- Crear un ambiente acogedor y familiar para que los clientes disfruten de la experiencia gastronómica. 
+
+- Destacar la importancia de los ingredientes locales y la tradición en la elaboración de los postres. 
+
+- Ofrecer información detallada sobre cada postre, incluyendo sus ingredientes y origen. 
+
+- Considerar opciones vegetarianas y veganas para incluir a todos los comensales. 
+
+- Decorar los postres con elementos que evoquen la cultura colombiana, como flores o frutas exóticas.
+
+  
