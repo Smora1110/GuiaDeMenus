@@ -20,3 +20,13 @@
     Tequila: Variedad de tequilas para degustar
     Agua Frescas: Horchata, tamarindo, etc 
 
+## Consejos y Sugerencias:
+
+    Pregunta por el nivel de picante:
+    Algunos platillos pueden ser muy picantes, así que es recomendable preguntar antes de ordenar.
+    Acompaña tu comida con salsas:
+    El restaurante ofrece diferentes salsas para darle más sabor a tu platillo.
+    Prueba diferentes sabores:
+    La cocina mexicana es muy variada, no dudes en probar diferentes platillos.
+    Disfruta del ambiente:
+    El restaurante busca recrear un ambiente mexicano para que disfrutes de tu experiencia completa.
