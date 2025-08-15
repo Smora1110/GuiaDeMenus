@@ -5,3 +5,13 @@
 
 Se caracteriza por el uso de pastas, salsas, quesos, verduras, carnes y  mariscos, combinados de manera experta para crear platos deliciosos y  reconfortantes.
 
+
+## Platos Principales:
+
+- **Antipasti:** 
+
+- **Primi (Primeros Platos):** 
+
+- **Secondi (Segundos Platos):** 
+
+- **Contorni (Guarniciones):** 
