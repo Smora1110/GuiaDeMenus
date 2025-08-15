@@ -20,3 +20,28 @@
 - **Masala Chai:** Té negro con leche, especias y azúcar. 
 
 - **Bebidas gaseosas:** Opción refrescante para acompañar platos picantes. 
+
+
+
+## Consejos y sugerencias:
+
+
+- **Atrévete con el picante:** 
+
+  La cocina india es conocida por su variedad de niveles de picante. No dudes en preguntar al personal si tienes dudas sobre el nivel de picante de un plato. 
+
+- **Combina sabores:** 
+
+  Experimenta con diferentes combinaciones de platos, guarniciones y salsas para descubrir tus sabores favoritos. 
+
+- **Acompaña con pan:** 
+
+  El pan naan y el roti son excelentes para mojar en las salsas y disfrutar de cada bocado. 
+
+- **Prueba los postres:** 
+
+  Los postres indios son deliciosos y perfectos para finalizar una comida. 
+
+- **Disfruta de la experiencia:** 
+
+  La comida india es una experiencia sensorial completa, con aromas, sabores y texturas que te transportarán a la India.
