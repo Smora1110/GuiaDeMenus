@@ -11,3 +11,12 @@
     Enchiladas Rojas con pollo o queso, bañadas en salsa roja picante
     Pozole Rojo con carne de cerdo o pollo, acompañado de lechuga, rábano y tostadas
     Chiles Rellenos con carne o queso, capeados y bañados en salsa roja o verde 
+
+## Bebidas Recomendadas:
+
+    Agua de Jamaica: Refrescante bebida a base de flor de jamaica
+    Margaritas: Clásicas con tequila, limón y triple seco
+    Micheladas: Cerveza con limón, salsas y especias
+    Tequila: Variedad de tequilas para degustar
+    Agua Frescas: Horchata, tamarindo, etc 
+
