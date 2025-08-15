@@ -31,7 +31,7 @@ Es una cocina rica en sabores y técnicas, que varían según la región, pero q
 
 ## Consejos y sugerencias:   
 
-    - Acompaña cada plato con una baguette fresca y mantequilla. 
-    - Siéntate y disfruta del momento, la gastronomía francesa es una experiencia para todos los sentidos. 
-    - No dudes en pedir recomendaciones al personal del restaurante, ellos te guiarán en la elección de los platos y las bebidas. 
-    - Experimenta con diferentes sabores y texturas, la cocina francesa ofrece una amplia gama de posibilidades.
+- Acompaña cada plato con una baguette fresca y mantequilla. 
+- Siéntate y disfruta del momento, la gastronomía francesa es una experiencia para todos los sentidos. 
+- No dudes en pedir recomendaciones al personal del restaurante, ellos te guiarán en la elección de los platos y las bebidas. 
+- Experimenta con diferentes sabores y texturas, la cocina francesa ofrece una amplia gama de posibilidades.
