@@ -12,3 +12,11 @@
   - **Dal Makhani:** Lentejas negras cocinadas a fuego lento con mantequilla y especias. 
   - **Biryani:** Arroz aromático con carne, verduras o pollo, cocinado con especias y hierbas. 
   - **Vindaloo:** Un plato muy picante a base de carne (generalmente cerdo o pollo) cocinado con vinagre y especias.
+
+## Bebidas recomendadas:
+
+- **Lassi:** Bebida refrescante a base de yogur, disponible en sabores dulces (mango, plátano) o salados (comino). 
+
+- **Masala Chai:** Té negro con leche, especias y azúcar. 
+
+- **Bebidas gaseosas:** Opción refrescante para acompañar platos picantes. 
