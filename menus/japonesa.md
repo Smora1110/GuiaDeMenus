@@ -38,4 +38,11 @@ Las técnicas culinarias son precisas y cuidadas, resultando en platos visualmen
 
   Una opción refrescante y ligera.
 
-  
+
+## Consejos y Sugerencias:
+
+- Atrévete a probar diferentes tipos de sushi y sashimi para descubrir tus favoritos. 
+- No dudes en preguntar al personal sobre los ingredientes y la preparación de los platos. 
+- Disfruta de la experiencia de comer con palillos, ¡es parte de la cultura! 
+- Considera pedir un plato para compartir si quieres probar varias opciones. 
+- Acompaña tu comida con una bebida japonesa para realzar los sabores.
