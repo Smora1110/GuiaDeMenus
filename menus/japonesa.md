@@ -25,4 +25,17 @@ Las técnicas culinarias son precisas y cuidadas, resultando en platos visualmen
 
   Finas láminas de pescado crudo, servidas con guarniciones y salsas.
 
+
+## Bebidas Recomendadas:
+
+- **Sake:** Vino de arroz, servido frío o caliente, con una amplia gama de sabores y grados de alcohol. 
+
+- **Té Verde:** Un clásico japonés, refrescante y con propiedades antioxidantes. 
+
+- **Cerveza Japonesa:** Marcas como Sapporo, Asahi o Kirin, ideales para acompañar la comida. 
+
+- **Agua con Gas o Natural:** 
+
+  Una opción refrescante y ligera.
+
   
