@@ -13,3 +13,17 @@ Es una cocina rica en sabores y técnicas, que varían según la región, pero q
 - **Cassoulet:** Guiso de frijoles con carne de cerdo, salchicha y pato, originario del suroeste de Francia. 
 - **Moules Marinières:** Mejillones cocidos en vino blanco con ajo, perejil y chalotas. 
 - **Confit de canard:** Muslo de pato confitado en su propia grasa, una especialidad del suroeste. 
+
+# Bebidas recomendadas:   
+
+- **Vinos:** 
+  Francia es famosa por sus vinos, por lo que se recomienda maridar los platos  con vinos de diferentes regiones, como Burdeos, Borgoña, Alsacia o  Champagne. 
+
+- **Cidra:** 
+  Una bebida refrescante, especialmente adecuada para acompañar platos con carne de cerdo o pato. 
+
+- **Kir Royal:** 
+  Un cóctel a base de champán y licor de grosella, ideal para el aperitivo. 
+
+- **Pernod:** 
+    Un licor de anís, que se sirve con agua y hielo, perfecto para disfrutar después de la cena.
