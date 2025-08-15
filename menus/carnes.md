@@ -1,11 +1,10 @@
-## La gastronomía en carnes
+# La gastronomía en carnes
 
+## Descripcion
 
-# Descripción
+Un menú que celebra la rica tradición gastronómica local, con énfasis en carnes a la brasa y sabores auténticos.
 
-    Un menú que celebra la rica tradición gastronómica local, con énfasis en carnes a la brasa y sabores auténticos.
-
-**# Platos Principales:**
+## Platos Principales:
 
 ​    Bife de Chorizo a la Parrilla:
 
@@ -27,7 +26,7 @@
 
 ​    Costillas de cordero marinadas en hierbas aromáticas y cocinadas a la parrilla, con puré de batata y cebollas caramelizadas.
 
- **# Bebidas Recomendadas:**
+ ## Bebidas Recomendadas:
 
 ​    Vinos Tintos: Selección de vinos tintos argentinos, ideales para maridar con las carnes.
 
@@ -41,7 +40,7 @@
 
 
 
-**# Consejos y Sugerencias:**
+## Consejos y Sugerencias:
 
 ​    Para los amantes de la carne: Recomendamos probar el Bife de Chorizo o el Churrasco Argentino, acompañados de una copa de vino tinto.
 
