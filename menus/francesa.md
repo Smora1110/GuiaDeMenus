@@ -1,12 +1,13 @@
-## La gastronomía francesa
+# La gastronomía francesa
 
-# Descripción 
- La gastronomía francesa, reconocida mundialmente, se caracteriza por su elegancia, sofisticación y uso de ingredientes frescos y de alta calidad. 
+## Descripción 
+
+La gastronomía francesa, reconocida mundialmente, se caracteriza por su elegancia, sofisticación y uso de ingredientes frescos y de alta calidad. 
 
 Es una cocina rica en sabores y técnicas, que varían según la región, pero que comparte un enfoque en la presentación y la experiencia culinaria.
 
 
-# Platos principales del menú:   
+## Platos principales del menú:   
 
 - **Boeuf Bourguignon:** Carne de res estofada en vino tinto con verduras, un plato emblemático de la Borgoña. 
 - **Coq au Vin:** Pollo cocinado en vino tinto con champiñones, tocino y cebollas, otro clásico francés. 
@@ -14,7 +15,7 @@ Es una cocina rica en sabores y técnicas, que varían según la región, pero q
 - **Moules Marinières:** Mejillones cocidos en vino blanco con ajo, perejil y chalotas. 
 - **Confit de canard:** Muslo de pato confitado en su propia grasa, una especialidad del suroeste. 
 
-# Bebidas recomendadas:   
+## Bebidas recomendadas:   
 
 - **Vinos:** 
   Francia es famosa por sus vinos, por lo que se recomienda maridar los platos  con vinos de diferentes regiones, como Burdeos, Borgoña, Alsacia o  Champagne. 
@@ -28,7 +29,7 @@ Es una cocina rica en sabores y técnicas, que varían según la región, pero q
 - **Pernod:** 
     Un licor de anís, que se sirve con agua y hielo, perfecto para disfrutar después de la cena.
 
-# Consejos y sugerencias:   
+## Consejos y sugerencias:   
 
     - Acompaña cada plato con una baguette fresca y mantequilla. 
     - Siéntate y disfruta del momento, la gastronomía francesa es una experiencia para todos los sentidos. 
