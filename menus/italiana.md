@@ -27,4 +27,18 @@ Se caracteriza por el uso de pastas, salsas, quesos, verduras, carnes y  marisco
 
 - Espresso: Café italiano fuerte.
 
+
+## Consejos y Sugerencias:
+
+- Prueba los diferentes tipos de pasta y salsas para descubrir tus favoritos. 
+
+- Acompaña cada plato con un buen vino italiano. 
+
+- No olvides probar los postres tradicionales. 
+
+- Relájate y disfruta de la experiencia italiana. 
+
+  ¡Buon Appetito!
+
+  
   
