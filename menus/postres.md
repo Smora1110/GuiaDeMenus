@@ -20,3 +20,20 @@ Se busca resaltar la diversidad de ingredientes locales y técnicas  culinarias 
 - **Postre de natas:** 
 
   Un postre cremoso y ligero, hecho con leche cuajada, azúcar y esencia de vainilla, con una textura suave y un sabor delicado. 
+
+
+## Bebidas recomendadas:
+
+- **Chicha:** 
+
+  Bebida fermentada a base de maíz, con un sabor dulce y ligeramente ácido. 
+
+- **Agua de panela:** 
+
+  Bebida refrescante hecha con panela (azúcar de caña sin refinar) y limón. 
+
+- **Chocolate santandereano:** 
+
+  Chocolate caliente con leche, canela y especias, ideal para acompañar los postres. 
+
+- 
