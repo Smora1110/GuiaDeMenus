@@ -16,3 +16,16 @@ Cocina vegetariana contemporánea, fusionando  técnicas y sabores de diferentes
 - **Hamburguesa vegetariana casera:** 
 
   Hamburguesa hecha con lentejas, quinoa y vegetales, servida en pan artesanal con  lechuga, tomate, cebolla caramelizada y mayonesa vegana.
+
+
+## Bebidas recomendadas:
+
+- **Agua fresca de pepino y menta:** Refrescante y natural, ideal para limpiar el paladar. 
+
+- **Limonada de jengibre:** Sabor cítrico con un toque picante del jengibre. 
+
+- **Vino tinto o blanco de la casa:** Selección de vinos locales que complementan los sabores del menú. 
+
+- **Cócteles sin alcohol:** 
+
+  Preparaciones creativas con frutas frescas, hierbas aromáticas y zumos naturales.
